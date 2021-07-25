@@ -1,0 +1,3 @@
+Tarea 1 de Sistemas Distribuidos:
+Descripción: Archivo agregado con fines didácticos.
+
